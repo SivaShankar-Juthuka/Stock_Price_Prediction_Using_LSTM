@@ -6,9 +6,9 @@ This project uses deep learning techniques to predict stock prices using LSTM al
 
 
 ## Team Members
+- [J. Siva Shankar](https://github.com/SivaShankar-Juthuka) 
 - [P.V.Chaitanya](https://github.com/pvchaitanya8/) 
 - [Deva Sai Kishore](https://github.com/devasaikishore43) 
-- [J. Siva Shankar](https://github.com/SivaShankar-Juthuka) 
 - [Uday Kiran](https://github.com/UdayKiranVEGI) 
 
 
